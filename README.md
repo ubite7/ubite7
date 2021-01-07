@@ -1,6 +1,10 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Python
+
+
+- 🌱 I’m currently learning Python, C++
 - ⚡ Fun fact: part- time Taxi driver
+
+
 <!--
 **ubite7/ubite7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
