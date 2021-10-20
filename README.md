@@ -3,7 +3,8 @@
 
 - 🌱 I’m currently learning Python, C++
 - ⚡ Fun fact: part- time Taxi driver
-
+- Interested in Data Science
+- typerace speed around 50 wpm
 
 <!--
 **ubite7/ubite7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
